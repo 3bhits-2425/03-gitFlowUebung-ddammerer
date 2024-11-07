@@ -19,7 +19,7 @@
 
 ### 4. Datei bearbeiten und Commit im Feature-Branch machen
 
-- Bearbeite die Datei `README.md` und füge eine neue Zeile hinzu.
+- Bearbeite die Datei `Test` und füge eine neue Zeile hinzu.
 - Füge die Änderungen hinzu und mache einen Commit.
 
 ### 5. Änderungen in den Haupt-Branch mergen
