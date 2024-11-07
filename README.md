@@ -22,12 +22,3 @@
 - Bearbeite die Datei `Test` und füge eine neue Zeile hinzu.
 - Füge die Änderungen hinzu und mache einen Commit.
 
-### 5. Änderungen in den Haupt-Branch mergen
-
-- Wechsle zurück zum Haupt-Branch `main`.
-- Führe den Merge des Feature-Branchs in den Haupt-Branch durch.
-- Lösche den Feature-Branch optional nach dem Merge.
-
----
-
-Viel Erfolg beim Durchführen des Git-Flows!
